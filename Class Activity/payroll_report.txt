@@ -1,0 +1,4 @@
+---- EMPLOYEE PAYROLL REPORT ----
+Name: Pratyush Bidari | Pay: $5000.0
+Name: Saurav Shah Teli | Pay: $1800.0
+Name: Sonik Dahal | Pay: $6200.0
